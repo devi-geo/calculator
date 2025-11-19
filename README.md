@@ -1,9 +1,14 @@
 # calculator
 
-How to run
+# Dependieces
 
-Download from (releases)[https://github.com/devi-geo/calculator/releases/tag/V1.0.0]
+Dotnet 8.0 +
 
-add to PATH
+# How to run
 
-Enjoy!
+clone this repo
+```bash
+git clone https://https://github.com/devi-geo/calculator.git
+```
+
+## run: dotnet run
